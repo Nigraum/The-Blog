@@ -54,4 +54,4 @@ Baixe os assets aqui ⤵️
 
 [images.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61e68811-afcb-4a18-8827-fe0c7a3a9c2e/images.zip)
 
-Feito com 💜 por Rocketseat
+Feito com 💜 por Yan Negrão.
