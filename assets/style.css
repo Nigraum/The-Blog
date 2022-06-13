@@ -73,6 +73,7 @@ input {
   font-weight: 400px;
   font-size: 14px;
   line-height: 16px;
+  padding-left: 1rem;
 }
 
 button {
