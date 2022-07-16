@@ -3,7 +3,8 @@ https://nigraum.github.io/The-Blog/
 
 # Desafio: RocketBlog
 
-![image](https://user-images.githubusercontent.com/30730216/160450241-380a74e1-deb4-4764-ab80-0507d0391190.png)
+![image](https://user-images.githubusercontent.com/102248990/179338089-511fa932-9421-42c2-8d93-71e2d14dc6ec.png)
+
 
 
 [Desafio original](https://efficient-sloth-d85.notion.site/Desafio-RocketBlog-807e38809814423e80469b080444db5e#c08d0c63c6354f2e8ce7fd1e616604af)<br>
